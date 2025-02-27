@@ -37,11 +37,6 @@ He/Him
 📈 I’m into algorithmic trading and financial markets   
 
 ---
-
-### 🏆 GitHub Stats  
-![CodeMonk1522's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CodeMonk1522&show_icons=true&theme=radical)  
-
----
 💻 **"Code, learn, repeat!"**  
 🚀 **Always building, always growing!**  
 
